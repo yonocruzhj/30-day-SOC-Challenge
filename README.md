@@ -1,4 +1,4 @@
-<h1>MyDFIR - SOC Challenge (In progress)</h1>
+<h1>MyDFIR - 30 Day SOC Challenge (In progress)</h1>
 
 <h2>Description</h2>
 
@@ -22,11 +22,13 @@
 
 <h2>Program walk-through:</h2>
 
+<h2>Day 1</h2>
 Day 1: Create Topology <br/>
 <img src="https://imgur.com/YP9Lkqs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Day 2: Elasticsearch Setup<br/>
+<h2>Day 2: Elasticsearch setup</h2>
+Day 2: Create server in VULTR<br/>
 <img src="https://imgur.com/b2snJe5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
