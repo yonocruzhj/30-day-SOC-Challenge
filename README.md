@@ -27,30 +27,53 @@ Day 1: Create Topology <br/>
 <img src="https://imgur.com/YP9Lkqs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<h2>Day 2: Elasticsearch setup</h2>
-Day 2: Create server in VULTR<br/>
+<h2>Day 2/3: Elasticsearch setup</h2>
+Day 2/3: Create server in VULTR<br/>
 <img src="https://imgur.com/b2snJe5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Day 2: Connect to ELK via SSH in host terminal/powershell <br/>
+Day 2/3: Connect to ELK via SSH in host terminal/powershell <br/>
 <img src="https://imgur.com/uLhweU0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Day 2: Download and install elasticsearch <br/>
+Day 2/3: Download and install elasticsearch <br/>
 <img src="https://imgur.com/RGovfy7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/pz62USx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Day 2: Change network host  <br/>
+Day 2/3: Change network host  <br/>
 <img src="https://imgur.com/VjRgVMO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/jfkqM16.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Day 2: Configure firewall in VULTR <br/>
+Day 2/3: Configure firewall in VULTR <br/>
 <img src="https://imgur.com/Be8olzF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Day 2: Start up elasticsearch service and confirm it is active <br/>
+Day 2/3: Start up elasticsearch service and confirm it is active <br/>
 <img src="https://imgur.com/j0fKwFl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/0mlFztk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<h2>Day 4: Kibana setup</h2>
+Day 4: Create server in VULTR<br/>
+<img src="https://imgur.com/b2snJe5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Day 4: Connect to ELK via SSH in host terminal/powershell <br/>
+<img src="https://imgur.com/uLhweU0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Day 4: Download and install elasticsearch <br/>
+<img src="https://imgur.com/RGovfy7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/pz62USx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Day 4: Change network host  <br/>
+<img src="https://imgur.com/VjRgVMO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/jfkqM16.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Day 2/3: Configure firewall in VULTR <br/>
+<img src="https://imgur.com/Be8olzF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
