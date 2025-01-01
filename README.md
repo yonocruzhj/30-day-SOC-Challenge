@@ -91,6 +91,11 @@ Day 4: Generate 3 API keys and add into keystore <br/>
 Day 4: Restart Kibana <br/>
 <img src="https://imgur.com/JbxB5g3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<h2>Day 5: Install Windows Server 2022</h2>
-
+<h2>Day 5: Install Windows Server 2022 on VULTR</h2>
+Day 5: Install Windows Server 2022 <br/>
+<img src="https://imgur.com/owPI7hY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Day 5: Enable RDP Connection<br/>
+<img src="https://imgur.com/zFF0qO5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
