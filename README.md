@@ -27,7 +27,9 @@ Day 1: Create Topology <br/>
 <img src="https://imgur.com/vhJ19mE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<h2>[Day 2: ELK Stack Introduction](https://www.youtube.com/watch?v=4AwBhXAW90Q&list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6&index=5)</h2>
+<h2>Day 2: ELK Stack Introduction</h2>
+
+### [ELK Stack Video](https://youtu.be/4AwBhXAW90Q)
 <h2>Day 3: Elasticsearch setup</h2>
 Day 3: Create server in VULTR<br/>
 <img src="https://imgur.com/b2snJe5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -99,5 +101,9 @@ Day 5: Install Windows Server 2022 <br/>
 Day 5: Enable RDP Connection<br/>
 <img src="https://imgur.com/zFF0qO5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<h2>[Day 6: Elastic Agent and Fleet Server Introduction](https://www.youtube.com/watch?v=0WklP6ZsP1g&list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6&index=10)</h2>
+<h2>Day 6: Elastic Agent and Fleet Server Introduction</h2>
+
+### [Elastic Agent and Fleet Server Video](https://youtu.be/0WklP6ZsP1g)
+
+<h2>Day 7: Elastic Agent and Fleet Server Setup</h2>
 
