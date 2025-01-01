@@ -24,7 +24,7 @@
 
 <h2>Day 1</h2>
 Day 1: Create Topology <br/>
-<img src="https://imgur.com/YP9Lkqs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/vhJ19mE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <h2>Day 2/3: Elasticsearch setup</h2>
@@ -73,10 +73,24 @@ Day 4: Finish installing Kibana and verify status<br/>
 <br />
 Day 4: Generate Elasticsearch enrollment token for Kibana <br/>
 <img src="https://imgur.com/fv5AZCZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/jfkqM16.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Day 2/3: Configure firewall in VULTR <br/>
-<img src="https://imgur.com/Be8olzF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Day 4: Type in private IP address through port 5601 into the web broswer <br/>
+<img src="https://imgur.com/ROFS66v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Day 4: Paste enrollment token and obtain verification code following the instructions <br/>
+<img src="https://imgur.com/T2pbhZz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+Day 4: Generate 3 API keys and add into keystore <br/>
+<img src="https://imgur.com/fn6aGcR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/laMExQI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Day 4: Restart Kibana <br/>
+<img src="https://imgur.com/JbxB5g3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<h2>Day 5: Install Windows Server 2022</h2>
+
+
