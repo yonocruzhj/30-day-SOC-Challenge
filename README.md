@@ -36,7 +36,7 @@ Day 2/3: Connect to ELK via SSH in host terminal/powershell <br/>
 <img src="https://imgur.com/uLhweU0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Day 2/3: Download and install elasticsearch <br/>
+Day 2/3: Download and install Elasticsearch <br/>
 <img src="https://imgur.com/RGovfy7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/pz62USx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -47,29 +47,32 @@ Day 2/3: Change network host  <br/>
 <br />
 <br />
 Day 2/3: Configure firewall in VULTR <br/>
-<img src="https://imgur.com/Be8olzF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/c5tlB18.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Day 2/3: Start up elasticsearch service and confirm it is active <br/>
+Day 2/3: Start up Elasticsearch service and confirm it is active <br/>
 <img src="https://imgur.com/j0fKwFl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/0mlFztk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <h2>Day 4: Kibana setup</h2>
-Day 4: Create server in VULTR<br/>
-<img src="https://imgur.com/b2snJe5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Day 4: Download and install Kibana<br/>
+<img src="https://imgur.com/AbJKwL8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+<img src="https://imgur.com/NkAAwM5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/AeFeGUa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Day 4: Connect to ELK via SSH in host terminal/powershell <br/>
-<img src="https://imgur.com/uLhweU0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Day 4: Configure Kibana (change server port and server host) <br/>
+<img src="https://imgur.com/DiXlctn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Day 4: Download and install elasticsearch <br/>
-<img src="https://imgur.com/RGovfy7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/pz62USx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Day 4: Finish installing Kibana and verify status<br/>
+<img src="https://imgur.com/7F7HHgK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Day 4: Change network host  <br/>
-<img src="https://imgur.com/VjRgVMO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Day 4: Generate Elasticsearch enrollment token for Kibana <br/>
+<img src="https://imgur.com/fv5AZCZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/jfkqM16.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
