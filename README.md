@@ -27,30 +27,31 @@ Day 1: Create Topology <br/>
 <img src="https://imgur.com/vhJ19mE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<h2>Day 2/3: Elasticsearch setup</h2>
-Day 2/3: Create server in VULTR<br/>
+<h2>[Day 2: ELK Stack Introduction](https://www.youtube.com/watch?v=4AwBhXAW90Q&list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6&index=5)</h2>
+<h2>Day 3: Elasticsearch setup</h2>
+Day 3: Create server in VULTR<br/>
 <img src="https://imgur.com/b2snJe5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Day 2/3: Connect to ELK via SSH in host terminal/powershell <br/>
+Day 3: Connect to ELK via SSH in host terminal/powershell <br/>
 <img src="https://imgur.com/uLhweU0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Day 2/3: Download and install Elasticsearch <br/>
+Day 3: Download and install Elasticsearch <br/>
 <img src="https://imgur.com/RGovfy7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/pz62USx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Day 2/3: Change network host  <br/>
+Day 3: Change network host  <br/>
 <img src="https://imgur.com/VjRgVMO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/jfkqM16.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Day 2/3: Configure firewall in VULTR <br/>
+Day 3: Configure firewall in VULTR <br/>
 <img src="https://imgur.com/c5tlB18.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Day 2/3: Start up Elasticsearch service and confirm it is active <br/>
+Day 3: Start up Elasticsearch service and confirm it is active <br/>
 <img src="https://imgur.com/j0fKwFl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/0mlFztk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -98,4 +99,5 @@ Day 5: Install Windows Server 2022 <br/>
 Day 5: Enable RDP Connection<br/>
 <img src="https://imgur.com/zFF0qO5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<h2>[Day 6: Elastic Agent and Fleet Server Introduction](https://www.youtube.com/watch?v=0WklP6ZsP1g&list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6&index=10)</h2>
 
