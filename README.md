@@ -50,7 +50,7 @@ Day 3: Change network host  <br/>
 <br />
 <br />
 Day 3: Configure firewall in VULTR <br/>
-<img src="https://imgur.com/c5tlB18.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/xJGPXOH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Day 3: Start up Elasticsearch service and confirm it is active <br/>
@@ -106,4 +106,72 @@ Day 5: Enable RDP Connection<br/>
 ### [Elastic Agent and Fleet Server Video](https://youtu.be/0WklP6ZsP1g)
 
 <h2>Day 7: Elastic Agent and Fleet Server Setup</h2>
+Day 7: Create Fleet Server in VULTR<br/>
+<img src="https://imgur.com/mysUVz8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+SSH and log into server<br/>
+<img src="https://imgur.com/G9bCGDS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Update and upgrade Fleet Server
+<img src="https://imgur.com/ROHXGPd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Allow connection to Fleet server on ELK server by opening up port 9200 <br/>
+<img src="https://imgur.com/8G1M3av.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Create agent policy for Windows server<br/>
+<img src="https://imgur.com/F6wUxtW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Change URL from from 443 to 8220 in Fleet server settings<br/>
+<img src="https://imgur.com/JzMhVsI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Open up Powershell in Windows server and install Elastic agent<br/>
+<img src="https://imgur.com/uFSe7tM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
+<h2>Day 8: Sysmon Introduction</h2>
+### [Sysmon Intro](https://youtu.be/hpUnKjEFCoU)
+
+<h2>Day 9: Sysmon Installation</h2>
+Download Sysmon in Windows VM<br/>
+<img src="https://imgur.com/OMF9mwq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Save Olaf configuration of Sysmon and move to Sysmon folder<br/>
+<img src="https://imgur.com/8xxIaHi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/tahokKh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Install Sysmon <br/>
+<img src="https://imgur.com/C3UqbVl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<h2>Day 10: Ingest Sysmon and Windows Defender Logs into Elasticsearch</h2>
+Add custom windows events logs integration in Elasticsearch
+<img src="https://imgur.com/X5D97bb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Find where Sysmon logs reside and use that as channel name
+<img src="https://imgur.com/eWMEGSx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+SSH and log into server<br/>
+<img src="https://imgur.com/G9bCGDS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Update and upgrade Fleet Server
+<img src="https://imgur.com/ROHXGPd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Allow connection to Fleet server on ELK server by opening up port 9200 <br/>
+<img src="https://imgur.com/8G1M3av.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Create agent policy for Windows server<br/>
+<img src="https://imgur.com/F6wUxtW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Change URL from from 443 to 8220 in Fleet server settings<br/>
+<img src="https://imgur.com/JzMhVsI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Open up Powershell in Windows server and install Elastic agent<br/>
+<img src="https://imgur.com/uFSe7tM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
