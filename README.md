@@ -170,3 +170,10 @@ Repeat the above steps to integrate Windows Defender <br/>
 <h2>Day 11: Bruteforce Attack</h2>
 
 ### [Bruteforce attack](https://youtu.be/Tv57yhAOb6g)
+
+<h2>Day 12: Ubuntu 24.02 Installation</h2>
+
+<h3>Objectives</h3>
+
+-  Set up SSH Server
+-  View Authentication Logs
