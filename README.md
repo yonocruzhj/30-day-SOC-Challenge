@@ -132,6 +132,8 @@ Open up Powershell in Windows server and install Elastic agent<br/>
 <br />
 
 <h2>Day 8: Sysmon Introduction</h2>
+
+
 ### [Sysmon Intro](https://youtu.be/hpUnKjEFCoU)
 
 <h2>Day 9: Sysmon Installation</h2>
@@ -151,27 +153,20 @@ Install Sysmon <br/>
 <h2>Day 10: Ingest Sysmon and Windows Defender Logs into Elasticsearch</h2>
 Add custom windows events logs integration in Elasticsearch
 <img src="https://imgur.com/X5D97bb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Find where Sysmon logs reside and use that as channel name
+Find where Sysmon logs reside and use full name where operational is as channel name
 <img src="https://imgur.com/eWMEGSx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-SSH and log into server<br/>
-<img src="https://imgur.com/G9bCGDS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Update and upgrade Fleet Server
-<img src="https://imgur.com/ROHXGPd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/igmoEGm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Add integration to existing agent policy created prior 
+<img src="https://imgur.com/6SDWDbB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Allow connection to Fleet server on ELK server by opening up port 9200 <br/>
-<img src="https://imgur.com/8G1M3av.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Repeat the above steps to integrate Windows Defender <br/>
+<img src="https://imgur.com/lYDFmbK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ObWlUwz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create agent policy for Windows server<br/>
-<img src="https://imgur.com/F6wUxtW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Change URL from from 443 to 8220 in Fleet server settings<br/>
-<img src="https://imgur.com/JzMhVsI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Open up Powershell in Windows server and install Elastic agent<br/>
-<img src="https://imgur.com/uFSe7tM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
+<h2>Day 11: Bruteforce Attack</h2>
+
+### [Bruteforce attack](https://youtu.be/Tv57yhAOb6g)
