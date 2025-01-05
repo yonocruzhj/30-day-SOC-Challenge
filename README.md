@@ -177,3 +177,36 @@ Repeat the above steps to integrate Windows Defender <br/>
 
 -  Set up SSH Server
 -  View Authentication Logs
+
+<h4>Walk through</h4>
+Add custom windows events logs integration in Elasticsearch
+<img src="https://imgur.com/bMI9OGk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Observe failed attempts
+<img src="https://imgur.com/o9MvTQK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<h2>Day 13: Install Elastic Agent on Ubuntu</h2>
+
+<h3>Objectives</h3>
+
+- Install elastic agent on Linux Ubuntu Server
+
+<h4>Walk through</h4>
+Add agent to Ubuntu server
+<img src="https://imgur.com/P4w8k8T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Verify Ubuntu data is ingested in Elasticsearch
+<img src="https://imgur.com/PnkGxPd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<h2>Day 14: Install Elastic Agent on Ubuntu</h2>
+
+<h3>Objectives</h3>
+
+-  Create SSH bruteforce alert and dashboard in Kibana
+
+<h4>Walk through</h4>
+Add custom windows events logs integration in Elasticsearch
+<img src="https://imgur.com/bMI9OGk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Observe failed attempts
+<img src="https://imgur.com/o9MvTQK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
