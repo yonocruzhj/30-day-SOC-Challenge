@@ -7,8 +7,10 @@
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Elastic and Kibana</b> 
-- <b></b>
+- <b>Bash</b>
+- <b>Elastic and Kibana</b>
+- <b>Powershell</b>
+- <b>RDP</b>
 
 <h2>Environments Used </h2>
 
