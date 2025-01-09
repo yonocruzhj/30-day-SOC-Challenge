@@ -256,3 +256,10 @@ Create 2 table visualizations for failed and accepted RDP authentication
 <br />
 <img src="https://imgur.com/gsFB2Im.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+<h2>Day 20: Mythic Server Setup</h2>
+
+<h3>Objectives</h3>
+
+-  Set up Mythic C2 Server
+-  Learn how Mythix works
