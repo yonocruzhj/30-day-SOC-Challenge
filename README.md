@@ -262,4 +262,58 @@ Create 2 table visualizations for failed and accepted RDP authentication
 <h3>Objectives</h3>
 
 -  Set up Mythic C2 Server
--  Learn how Mythix works
+-  Learn how Mythic works
+
+<h4>Walk through</h4>
+Deploy Mythic server in VULTR
+<img src="https://imgur.com/61KCHWs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+SSH into the server then update and upgrade Ubuntu 
+<img src="https://imgur.com/B6waPHh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/xZyvWqQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Install prerequisites dockers-compose and make for Mythic 
+Use commands "apt install docker-compose" and "apt install make" to install these prerequisites.
+Clone repository
+<img src="https://imgur.com/PruiEg3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Run commands
+<img src="https://imgur.com/tCbQgN8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/OZJWhVd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/cgoUG0j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ys1xuyM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create another firewall in VULTR to only allow access from SSH and Windows servers
+<img src="https://imgur.com/ZMICl5F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Access Mythic from web GUI
+<img src="https://imgur.com/9W057Ao.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Use command "ls -la" and "cat .env" to locate password for the account
+<br />
+
+<h2>Day 21: Mythic Agent Setup</h2>
+
+<h3>Objectives</h3>
+
+- Perform a brute force attack
+- Generate a Mythic agent
+- Establish successful C2 session
+
+<h4>Walk through</h4>
+Create password text file
+<img src="https://imgur.com/IElXcbG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Change password policy on local group policy editor and log in password to password in the text file
+<img src="https://imgur.com/BwtuqEv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Log into Kali through VMWare. Update and upgrade repository, then unzip rockyou.txt 
+<img src="https://imgur.com/GAl3li2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/IZT03w4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Add spongebob 2025 to list of passwords
+<img src="https://imgur.com/Cy98qka.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/846qOLQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</br>
+Install crowbar
+<img src="https://imgur.com/ZMICl5F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Access Mythic from web GUI
+<img src="https://imgur.com/9W057Ao.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Use command "ls -la" and "cat .env" to locate password for the account
+<br />
+
