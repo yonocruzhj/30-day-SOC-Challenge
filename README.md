@@ -312,8 +312,20 @@ Add spongebob 2025 to list of passwords
 </br>
 Install crowbar
 <img src="https://imgur.com/ZMICl5F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Access Mythic from web GUI
-<img src="https://imgur.com/9W057Ao.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Use command "ls -la" and "cat .env" to locate password for the account
+Access Windows from Kali Linux
+<img src="https://imgur.com/0a7kDlP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install apollo agent and C2 profile
+<img src="https://imgur.com/bhBvHUj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/NbxRdPW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create payload in Mythic
+<img src="https://imgur.com/N2rh7P6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download payload link and perform wget
+<img src="https://imgur.com/IxFDq71.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Rename apollo.exe file
+<img src="https://imgur.com/UWSQ02Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/t7pUBZs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Use PowerShell from Kali RDP session and run command
+
+
 <br />
 
