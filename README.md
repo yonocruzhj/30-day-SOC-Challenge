@@ -311,20 +311,22 @@ Add spongebob 2025 to list of passwords
 <img src="https://imgur.com/846qOLQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </br>
 Install crowbar
-<img src="https://imgur.com/ZMICl5F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/opgbf4u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Ed0wfbU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Access Windows from Kali Linux
 <img src="https://imgur.com/0a7kDlP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Disable Windows Defender
+<img src="https://imgur.com/Ie8URyC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Install apollo agent and C2 profile
 <img src="https://imgur.com/bhBvHUj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/NbxRdPW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Create payload in Mythic
-<img src="https://imgur.com/N2rh7P6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Download payload link and perform wget
-<img src="https://imgur.com/IxFDq71.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Rename apollo.exe file
-<img src="https://imgur.com/UWSQ02Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/t7pUBZs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Use PowerShell from Kali RDP session and run command
+<img src="https://imgur.com/ECBqAyU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download payload link and perform wget to establish connection to Mythic and RDP session
+<img src="https://imgur.com/639wwjS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Use Mythic to run commands and obtain password
+<img src="https://imgur.com/luoEDCM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/KAD19hu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <br />
