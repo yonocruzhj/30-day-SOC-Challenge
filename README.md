@@ -328,6 +328,6 @@ Use Mythic to run commands and obtain password
 <img src="https://imgur.com/luoEDCM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/KAD19hu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-
+<h2>Day 22:Command and Control Introduction</h2>
 <br />
 
