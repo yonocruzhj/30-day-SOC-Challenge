@@ -322,7 +322,7 @@ Install apollo agent and C2 profile
 <img src="https://imgur.com/NbxRdPW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Create payload in Mythic
 <img src="https://imgur.com/ECBqAyU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Download payload link and perform wget to establish connection to Mythic and RDP session
+Download payload link to establish connection to Mythic 
 <img src="https://imgur.com/639wwjS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Use Mythic to run commands and obtain password
 <img src="https://imgur.com/mOQhUTT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
