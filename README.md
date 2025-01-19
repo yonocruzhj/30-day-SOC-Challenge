@@ -241,6 +241,20 @@ Create 2 table visualizations for failed and accepted SSH authentication
 Create 2 table visualizations for failed and accepted RDP authentication
 <img src="https://imgur.com/B6F2MeF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Create alert for Apollo.exe 
+<img src="https://imgur.com/fnleOlR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/KLlK0M2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create dashboard for suspicious activity and adjust field settings
+<img src="https://imgur.com/78Rotpm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Q2Y0bBd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/40vXflO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/SBNQzj4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Create SSH Failed Authentication - Network Map and add to new dashboard
+<img src="https://imgur.com/X6vySax.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create 2 maps in your new dashboard for accepted and failed authentication attempts 
+<img src="https://imgur.com/NabB6vi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <h2>Day 17: RDP Introduction </h2>
 
 ### [RDP Intro](https://youtu.be/tNhGxtKZo7c)
@@ -328,6 +342,10 @@ Use Mythic to run commands and obtain password
 <img src="https://imgur.com/mOQhUTT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/33CRo4U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<h2>Day 22:Command and Control Introduction</h2>
+<h2>Day 22: Ticketing System Introduction</h2>
+
+
+### [Ticketing System Intro](https://youtu.be/kvTCA4FQET0)
 <br />
 
+<h2>Day 23: osTicket Setup</h2>
